@@ -17,7 +17,8 @@
   <img height='30px' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
   <img height='30px' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'>
   <img height='30px' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
-   <img height='30px' src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
+  <img height='30px' src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
+  <img height='30px' src='https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'>
 </div>
 
 <div>
@@ -39,5 +40,5 @@
   <img height='30px' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
   <img height='30px' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'>
   <img height='30px' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
-   <img height='30px' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
+  <img height='30px' src='https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'>
 </div>
